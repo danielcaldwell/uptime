@@ -12,7 +12,7 @@ sites:
   - name: Blog https://danielcaldwell.bearblog.dev/blog/
     url: https://danielcaldwell.bearblog.dev/blog/
     slug: daniel-caldwell-bearblog
-    name: Finding Sunsets https://findingsunsets.com/
+  - name: Finding Sunsets https://findingsunsets.com/
     url: https://findingsunsets.com/
     slug: finding-sunsets
     

@@ -5,13 +5,16 @@ repo: uptime # The name of this repository
 sites:
   - name: Daniel Caldwell https://www.danielcaldwell.com
     url: https://www.danielcaldwell.com
-    slug: danielcaldwell
+    slug: daniel-caldwell
   - name: San Info Tech Online https://saninfotechonline.com
     url: https://saninfotechonline.com
     slug: san-info-tech-online
   - name: Blog https://danielcaldwell.bearblog.dev/blog/
     url: https://danielcaldwell.bearblog.dev/blog/
-    slug: danielcaldwell-bearblog
+    slug: daniel-caldwell-bearblog
+    name: Finding Sunsets https://findingsunsets.com/
+    url: https://findingsunsets.com/
+    slug: finding-sunsets
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

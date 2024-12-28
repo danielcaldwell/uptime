@@ -22,19 +22,19 @@
     "url": "https://saninfotechonline.com",
     "icon": "https://icons.duckduckgo.com/ip3/saninfotechonline.com.ico",
     "slug": "san-info-tech-online",
-    "status": "up",
-    "uptime": "89.23%",
-    "uptimeDay": "89.23%",
-    "uptimeWeek": "89.23%",
-    "uptimeMonth": "89.23%",
-    "uptimeYear": "89.23%",
-    "time": 941,
-    "timeDay": 941,
-    "timeWeek": 941,
-    "timeMonth": 941,
-    "timeYear": 941,
+    "status": "down",
+    "uptime": "91.72%",
+    "uptimeDay": "91.72%",
+    "uptimeWeek": "91.72%",
+    "uptimeMonth": "91.72%",
+    "uptimeYear": "91.72%",
+    "time": 912,
+    "timeDay": 912,
+    "timeWeek": 912,
+    "timeMonth": 912,
+    "timeYear": 912,
     "dailyMinutesDown": {
-      "2024-12-28": 50
+      "2024-12-28": 45
     }
   },
   {

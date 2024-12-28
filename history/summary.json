@@ -23,17 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/saninfotechonline.com.ico",
     "slug": "san-info-tech-online-https-saninfotechonline-com",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "81.09%",
+    "uptimeDay": "81.09%",
+    "uptimeWeek": "81.09%",
+    "uptimeMonth": "81.09%",
+    "uptimeYear": "81.09%",
     "time": 130,
     "timeDay": 130,
     "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-28": 0
+    }
   },
   {
     "name": "Blog https://danielcaldwell.bearblog.dev/blog/",

@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/saninfotechonline.com.ico",
     "slug": "san-info-tech-online",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 837,
     "timeDay": 136,
     "timeWeek": 153,
@@ -42,9 +42,9 @@
     "url": "https://danielcaldwell.bearblog.dev/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/danielcaldwell.bearblog.dev.ico",
     "slug": "daniel-caldwell-bearblog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 420,
     "timeMonth": 351,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-09": 0
+    }
   },
   {
     "name": "Finding Sunsets https://findingsunsets.com/",

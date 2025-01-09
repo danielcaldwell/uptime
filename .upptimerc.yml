@@ -15,6 +15,9 @@ sites:
   - name: Finding Sunsets https://findingsunsets.com/
     url: https://findingsunsets.com/
     slug: finding-sunsets
+  - name: Netlify Demo Site https://celebrated-blini-508e80.netlify.app/
+    url: https://celebrated-blini-508e80.netlify.app/
+    slug: netlify-demo
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

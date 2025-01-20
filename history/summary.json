@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 375,
-    "timeWeek": 361,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "time": 366,
+    "timeDay": 466,
+    "timeWeek": 380,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/saninfotechonline.com.ico",
     "slug": "san-info-tech-online",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 743,
-    "timeDay": 150,
-    "timeWeek": 161,
-    "timeMonth": 743,
-    "timeYear": 743,
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 735,
+    "timeDay": 170,
+    "timeWeek": 166,
+    "timeMonth": 735,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2024-12-29": 79
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 342,
-    "timeDay": 394,
-    "timeWeek": 315,
-    "timeMonth": 342,
-    "timeYear": 342,
+    "time": 339,
+    "timeDay": 273,
+    "timeWeek": 297,
+    "timeMonth": 339,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2025-01-09": 15
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 811,
-    "timeDay": 1529,
-    "timeWeek": 807,
-    "timeMonth": 811,
-    "timeYear": 811,
+    "time": 799,
+    "timeDay": 487,
+    "timeWeek": 789,
+    "timeMonth": 799,
+    "timeYear": 799,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 38,
-    "timeWeek": 111,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 136,
+    "timeDay": 55,
+    "timeWeek": 114,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   }
 ]

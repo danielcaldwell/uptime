@@ -40,7 +40,7 @@
     "url": "https://danielcaldwell.bearblog.dev/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/danielcaldwell.bearblog.dev.ico",
     "slug": "daniel-caldwell-bearblog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 278,
     "timeMonth": 318,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-22": 0
+    }
   },
   {
     "name": "Finding Sunsets https://findingsunsets.com/",

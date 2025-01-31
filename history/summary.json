@@ -4,9 +4,9 @@
     "url": "https://www.danielcaldwell.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.danielcaldwell.com.ico",
     "slug": "daniel-caldwell",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 400,
     "timeMonth": 373,
     "timeYear": 373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-31": 0
+    }
   },
   {
     "name": "San Info Tech Online https://saninfotechonline.com",
     "url": "https://saninfotechonline.com",
     "icon": "https://icons.duckduckgo.com/ip3/saninfotechonline.com.ico",
     "slug": "san-info-tech-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 163,
     "timeMonth": 161,
     "timeYear": 660,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-31": 0
+    }
   },
   {
     "name": "Blog https://danielcaldwell.bearblog.dev/blog/",
@@ -60,7 +64,7 @@
     "url": "https://findingsunsets.com/",
     "icon": "https://icons.duckduckgo.com/ip3/findingsunsets.com.ico",
     "slug": "finding-sunsets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,7 +75,9 @@
     "timeWeek": 598,
     "timeMonth": 695,
     "timeYear": 753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-31": 0
+    }
   },
   {
     "name": "Netlify Demo Site https://celebrated-blini-508e80.netlify.app/",

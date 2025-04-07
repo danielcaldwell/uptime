@@ -6,9 +6,9 @@
     "slug": "daniel-caldwell",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 371,
     "timeDay": 156,
@@ -16,7 +16,7 @@
     "timeMonth": 349,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2025-04-07": 22,
+      "2025-04-07": 17,
       "2025-01-31": 19
     }
   },
@@ -66,18 +66,19 @@
     "url": "https://findingsunsets.com/",
     "icon": "https://icons.duckduckgo.com/ip3/findingsunsets.com.ico",
     "slug": "finding-sunsets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 848,
-    "timeDay": 265,
-    "timeWeek": 862,
-    "timeMonth": 940,
-    "timeYear": 848,
+    "time": 840,
+    "timeDay": 214,
+    "timeWeek": 782,
+    "timeMonth": 912,
+    "timeYear": 840,
     "dailyMinutesDown": {
+      "2025-04-07": 0,
       "2025-01-31": 19
     }
   },

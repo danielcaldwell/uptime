@@ -33,7 +33,7 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.91%",
     "time": 394,
-    "timeDay": 199,
+    "timeDay": 207,
     "timeWeek": 196,
     "timeMonth": 196,
     "timeYear": 394,
@@ -70,9 +70,9 @@
     "slug": "finding-sunsets",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "94.52%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.87%",
     "time": 754,
     "timeDay": 586,
@@ -80,7 +80,7 @@
     "timeMonth": 696,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2025-04-08": 79,
+      "2025-04-08": 74,
       "2025-04-07": 94,
       "2025-01-31": 19
     }

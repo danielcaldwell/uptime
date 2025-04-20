@@ -69,11 +69,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/findingsunsets.com.ico",
     "slug": "finding-sunsets",
     "status": "up",
-    "uptime": "96.98%",
+    "uptime": "96.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.43%",
+    "uptimeWeek": "80.94%",
     "uptimeMonth": "88.84%",
-    "uptimeYear": "96.98%",
+    "uptimeYear": "96.99%",
     "time": 726,
     "timeDay": 400,
     "timeWeek": 756,
@@ -96,17 +96,19 @@
     "url": "https://celebrated-blini-508e80.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/celebrated-blini-508e80.netlify.app.ico",
     "slug": "netlify-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 116,
-    "timeWeek": 143,
-    "timeMonth": 208,
-    "timeYear": 159,
-    "dailyMinutesDown": {}
+    "time": 186,
+    "timeDay": 1596,
+    "timeWeek": 509,
+    "timeMonth": 303,
+    "timeYear": 186,
+    "dailyMinutesDown": {
+      "2025-04-20": 0
+    }
   }
 ]

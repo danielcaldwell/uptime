@@ -18,6 +18,9 @@ sites:
   - name: Netlify Demo Site https://celebrated-blini-508e80.netlify.app/
     url: https://celebrated-blini-508e80.netlify.app/
     slug: netlify-demo
+  - name: AmigoCollect on the Apple App Store
+    url: https://apps.apple.com/us/app/amigocollect/id1472415807
+    slug: amigocollect-appstore
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

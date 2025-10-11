@@ -130,7 +130,7 @@
     "timeMonth": 153,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-10-11": 1228,
+      "2025-10-11": 1234,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -242,19 +242,19 @@
     "url": "https://celebrated-blini-508e80.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/celebrated-blini-508e80.netlify.app.ico",
     "slug": "netlify-demo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 445,
-    "timeWeek": 177,
-    "timeMonth": 200,
-    "timeYear": 197,
+    "time": 196,
+    "timeDay": 243,
+    "timeWeek": 160,
+    "timeMonth": 195,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-10-11": 0
+      "2025-10-11": 7
     }
   },
   {

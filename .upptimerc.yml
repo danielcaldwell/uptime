@@ -13,6 +13,8 @@ sites:
       - 200
       - 201
       - 302
+    headers:
+      - "user-agent: curl/8.5.0"
     verbose: true
     method: HEAD
   - name: Blog https://danielcaldwell.bearblog.dev/blog/
@@ -22,6 +24,8 @@ sites:
     url: https://findingsunsets.com/
     slug: finding-sunsets  
     verbose: true
+    headers:
+      - "user-agent: curl/8.5.0"
   - name: Netlify Demo Site https://celebrated-blini-508e80.netlify.app/
     url: https://celebrated-blini-508e80.netlify.app/
     slug: netlify-demo

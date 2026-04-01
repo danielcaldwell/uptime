@@ -13,6 +13,7 @@ sites:
       - 200
       - 201
       - 302
+    verbose: true
     method: HEAD
   - name: Blog https://danielcaldwell.bearblog.dev/blog/
     url: https://danielcaldwell.bearblog.dev/blog/
@@ -20,6 +21,7 @@ sites:
   - name: Finding Sunsets https://findingsunsets.com/
     url: https://findingsunsets.com/
     slug: finding-sunsets  
+    verbose: true
   - name: Netlify Demo Site https://celebrated-blini-508e80.netlify.app/
     url: https://celebrated-blini-508e80.netlify.app/
     slug: netlify-demo

@@ -13,6 +13,7 @@ sites:
       - 200
       - 201
       - 302
+    method: HEAD
   - name: Blog https://danielcaldwell.bearblog.dev/blog/
     url: https://danielcaldwell.bearblog.dev/blog/
     slug: daniel-caldwell-bearblog

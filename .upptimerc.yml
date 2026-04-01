@@ -8,13 +8,17 @@ sites:
     slug: daniel-caldwell
   - name: San Info Tech Online https://saninfotechonline.com
     url: https://saninfotechonline.com
-    slug: san-info-tech-online
+    slug: san-info-tech-online 
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
   - name: Blog https://danielcaldwell.bearblog.dev/blog/
     url: https://danielcaldwell.bearblog.dev/blog/
     slug: daniel-caldwell-bearblog
   - name: Finding Sunsets https://findingsunsets.com/
     url: https://findingsunsets.com/
-    slug: finding-sunsets
+    slug: finding-sunsets  
   - name: Netlify Demo Site https://celebrated-blini-508e80.netlify.app/
     url: https://celebrated-blini-508e80.netlify.app/
     slug: netlify-demo
